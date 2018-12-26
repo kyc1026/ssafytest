@@ -22,7 +22,7 @@ name                     : "Your Name"
 description              : "it amazing ssafy."
 url                      : "https://kyc1026.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : #"ssafytest" /# "public"
+repository               : "ssfytest" \# "public"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
