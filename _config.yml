@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SSALFYM"
+title                    : "test1"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "hi"
