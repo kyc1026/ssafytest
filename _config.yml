@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ssafy good"
+title                    : "Site Title"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "it amazing ssafy."
-url                      : "https://kyc1026.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "/ssafytest"
+description              : "An amazing website."
+url                      : # "https://kyc1026.github.io"
+baseurl                  : "/ssafytest"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
